@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://c0114lnbdf6h3"]
+
+[ext_resource type="Texture2D" uid="uid://cqcj0k2yrhfou" path="res://icons/landmark-dungeon.png" id="1_nmi26"]
+
+[node name="Landmark Navigation" type="Node2D"]
+
+[node name="Icon" type="Sprite2D" parent="."]
+texture = ExtResource("1_nmi26")
